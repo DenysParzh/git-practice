@@ -1,1 +1,1 @@
-console.log("config version 5")
+console.log("config version 8")
